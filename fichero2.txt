@@ -1,1 +1,2 @@
 Este es el nuevo fichero 2
+Añado nueva linea al fichero 2 rama v.1.0
